@@ -45,8 +45,6 @@ ii)	Create Schematic Cell view.
 	Gpdk45 ------------------------nmos1v, pmos1v
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
-	Click Check and Save button
-![image](https://github.com/user-attachments/assets/e3d2e9b9-3441-4d36-b56a-9e00919bd85e)
 
 
 
@@ -65,7 +63,6 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/39889899-de49-4f71-80b1-afa76c7f536d)
 
 
 
@@ -78,7 +75,6 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/64b98298-33c7-47b5-8402-08db85fffe9b)
 
 
 
